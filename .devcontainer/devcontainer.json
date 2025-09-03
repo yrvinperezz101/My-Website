@@ -1,0 +1,11 @@
+{
+  "name": "HTML Codespace",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": ["ritwickdey.LiveServer"]
+    }
+  },
+  "forwardPorts": [5500],
+  "postCreateCommand": "echo 'Ready to code!'
+}
